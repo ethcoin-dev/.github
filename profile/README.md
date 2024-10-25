@@ -36,6 +36,8 @@ Ethcoin (ETHC) is a Bitcoin-inspired ERC20 token that implements a unique mining
 
 We believe Ethcoin represents an innovative approach to creating a deflationary currency on the Ethereum network. Projects like this are essential for exploring new economic models in the cryptocurrency ecosystem.
 
+> Make Ethereum Deflationary Again!
+
 ## Resources
 
 - 🌐 **Website**: [ethcoin.org](https://ethcoin.org)
